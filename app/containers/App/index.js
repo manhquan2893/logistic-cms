@@ -24,7 +24,7 @@ export default function App() {
   return (
     <Wrap>
       <LeftSidebar></LeftSidebar>
-      dev 1
+      dev on remote
       <MainContent>
         <Switch>
           {
